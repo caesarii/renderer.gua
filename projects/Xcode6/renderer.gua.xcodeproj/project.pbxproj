@@ -284,7 +284,7 @@
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/cc/github/change/renderer.gua/platform/osx,
+					/Users/qinghe/code/renderer.gua/platform/osx,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -295,7 +295,7 @@
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/cc/github/change/renderer.gua/platform/osx,
+					/Users/qinghe/code/renderer.gua/platform/osx,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
