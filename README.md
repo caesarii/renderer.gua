@@ -1,6 +1,8 @@
 # renderer.gua
 Software 3D Renderer in C++ on Windows, OSX and Linux or other popular flavors of Unix that SDL supports
 
+** 修改 framework search paths 后才能成功运行， 比如 /Users/qinghe/code/renderer.gua/platform/osx，修改方法自行搜索 **
+
 ## Screenshots
 ![Jelly Cube](https://raw.githubusercontent.com/guaxiao/renderer.gua/dev/screenshots/jellycube.png)
 ![Illidan Wireframe](https://raw.githubusercontent.com/guaxiao/renderer.gua/dev/screenshots/illidan_wireframe.png)
